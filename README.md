@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Atsuya 👋
 
 <!--
 **Eagle-Konbu/Eagle-Konbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- Graduate Student in Japan🎌🗾
+- Learning metaheuristic💻
+- Big fan of Formula 1🏎️
+
 [![cl17](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fcl17)](https://atcoder.jp/users/cl17)
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=Eagle-Konbu)
