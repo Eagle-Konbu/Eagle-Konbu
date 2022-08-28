@@ -36,4 +36,8 @@ Here are some ideas to get you started:
 # Competitive Programming
 [![cl17](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fcl17)](https://atcoder.jp/users/cl17)
 
+#Stats
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Eagle-Konbu&theme=tokyonight)
+
+[![](./2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
