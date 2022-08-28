@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 # Stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Eagle-Konbu&theme=tokyonight)
 [![](https://raw.githubusercontent.com/Eagle-Konbu/Eagle-Konbu/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eagle-Konbu)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eagle-Konbu&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy&theme=tokyonight)
