@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=plastic)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00.svg?logo=tensorflow&style=plastic)
 
-![Photoshop](https://img.shiedls.io/badge/-Adobe%20Photoshop-31A8FF.svg?logo=adobe-photoshop&style=plastic)
+![Photoshop](https://img.shields.io/badge/-Adobe%20photoshop-00C8FF.svg?logo=adobe-photoshop&style=plastic)
 ![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00.svg?logo=adobe-illustrator&style=plastic)
 ![PremierePro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF.svg?logo=adobe-premiere-pro&style=plastic)
 ![AfterEffects](https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF.svg?logo=adobe-after-effects&style=plastic)
@@ -37,6 +37,5 @@ Here are some ideas to get you started:
 [![cl17](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fcl17)](https://atcoder.jp/users/cl17)
 
 # Stats
-
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Eagle-Konbu&theme=tokyonight)
 [![](https://raw.githubusercontent.com/Eagle-Konbu/Eagle-Konbu/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
