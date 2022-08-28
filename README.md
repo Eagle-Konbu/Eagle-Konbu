@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=plastic)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00.svg?logo=tensorflow&style=plastic)
 
-![Photoshop](https://img.shields.io/badge/-Adobe%20photoshop-00C8FF.svg?logo=adobe-photoshop&style=plastic)
-![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00.svg?logo=adobe-illustrator&style=plastic)
-![PremierePro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF.svg?logo=adobe-premiere-pro&style=plastic)
-![AfterEffects](https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF.svg?logo=adobe-after-effects&style=plastic)
+![Photoshop](https://img.shields.io/badge/-Adobe%20photoshop-081D34.svg?logo=adobe-photoshop&style=plastic)
+![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-2E0402.svg?logo=adobe-illustrator&style=plastic)
+![PremierePro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-000053.svg?logo=adobe-premiere-pro&style=plastic)
+![AfterEffects](https://img.shields.io/badge/-Adobe%20After%20Effects-000053.svg?logo=adobe-after-effects&style=plastic)
 ![Cinema4D](https://img.shields.io/badge/-Cinema4D-011A6A.svg?logo=cinema4d&style=plastic)
 
 # Competitive Programming
