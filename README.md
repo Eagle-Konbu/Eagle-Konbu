@@ -21,9 +21,13 @@ Here are some ideas to get you started:
 
 # Skills
 ![Rust](https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=plastic)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=plastic)
+![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=plastic)
+![Go](https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=plastic)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098.svg?logo=graphql&style=plastic)
 ![Rails](https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=plastic)
 ![React](https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=plastic)
-![Go](https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=plastic)
+![NextJS](https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=plastic)
 ![AWS](https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=plastic)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00.svg?logo=tensorflow&style=plastic)
 
