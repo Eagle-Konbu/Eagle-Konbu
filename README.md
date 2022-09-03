@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Big fan of Formula 1🏎️
 
 <!-- https://suzukikatsuma.github.io/badge-generator/ -->
-# Skills
+# Experiences
 ![Rust](https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-f7f7f7.svg?logo=typescript&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000.svg?logo=javascript&style=flat)
