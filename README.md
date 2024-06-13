@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Graduate Student in Japan🎌🗾
-- Learning metaheuristic💻
+- Web Engineer in Japan🎌🗾
 - Big fan of Formula 1🏎️
 
 <!-- https://suzukikatsuma.github.io/badge-generator/ -->
